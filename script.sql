@@ -19245,12 +19245,3 @@ CREATE INDEX "JEBG_MONTH05" ON "JOURNALS_ENTRIES_BALANCE_G" ("DOCUMENT_MONTH");
  
 CREATE INDEX "JEBG_YEAR05" ON "JOURNALS_ENTRIES_BALANCE_G" ("DOCUMENT_YEAR"); 
 
--- add comment test 1
--- add comment test 2 Farid
--- another comment sameh
-
-alter table x add ;
-alter table x add ;
-alter table x add ;
-
-
