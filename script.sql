@@ -19247,3 +19247,4 @@ CREATE INDEX "JEBG_YEAR05" ON "JOURNALS_ENTRIES_BALANCE_G" ("DOCUMENT_YEAR");
 
 -- add comment test 1
 -- add comment test 2 Farid
+-- another comment sameh
