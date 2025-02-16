@@ -19252,9 +19252,5 @@ CREATE INDEX "JEBG_YEAR05" ON "JOURNALS_ENTRIES_BALANCE_G" ("DOCUMENT_YEAR");
 alter table x add ;
 alter table x add ;
 alter table x add ;
-alter table x add ;
-alter table x add ;
-alter table x add ;
-alter table x add ;
 
 
