@@ -19256,3 +19256,4 @@ CREATE INDEX "JEBG_YEAR05" ON "JOURNALS_ENTRIES_BALANCE_G" ("DOCUMENT_YEAR");
 --- farid
 ---- ahmed 
 --- ahmed hassan
+---Waleed Osman
